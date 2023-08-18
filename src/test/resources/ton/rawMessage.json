@@ -1,0 +1,16 @@
+{
+  "@type": "raw.message",
+  "source": "EQAjwXTK01KLwUiK66EczECCv3w0t-KnKrXIIBs3vq2Oi7BH",
+  "destination": "EQCwHyzOrKP1lBHbvMrFHChifc1TLgeJVpKgHpL9sluHU-gV",
+  "value": "4984900000",
+  "fwd_fee": "666672",
+  "ihr_fee": "0",
+  "created_lt": "14038056000002",
+  "body_hash": "lqKW0iTyhcZ77pPDD4owkVfw2qNdxbh+QQt4YwoJz8c=",
+  "msg_data": {
+    "@type": "msg.dataRaw",
+    "body": "te6cckEBAQEAAgAAAEysuc0=",
+    "init_state": ""
+  },
+  "message": ""
+}
